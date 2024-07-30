@@ -18,6 +18,9 @@ export const FechaHora = () => {
 
     // joel santa maria
     // hola mundo 
+    // lsdjflñaskdjfa
+    //asdfkasldkf´ñaskldf
+    //ñasldkf´ñaskd´çf´ñlsd
 
     const formatoFecha = 'PPPP'; // Ejemplo: martes, 9 de julio de 2024
     const formatoHora = 'HH:mm:ss aa'; // Ejemplo: 10:22:12 PM
