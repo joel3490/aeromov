@@ -19,6 +19,8 @@ export const FechaHora = () => {
     const formatoFecha = 'PPPP'; // Ejemplo: martes, 9 de julio de 2024
     const formatoHora = 'HH:mm:ss aa'; // Ejemplo: 10:22:12 PM
 
+    //hola
+
   
     return (
       <div className="font-semibold text-xl">
